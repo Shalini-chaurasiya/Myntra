@@ -1,0 +1,36 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+#root{
+  width: 600px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(220, 237, 237);
+  text-align:center ;
+}
+button{
+  width: 50px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+button{
+  height:40px;
+  width:40px;
+  margin-right: 10px;
+  color: white;
+
+}
+.counter{
+    height:200px;
+    width: 300px;
+    background-color: rgb(233, 181, 104);
+
+}

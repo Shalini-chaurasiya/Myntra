@@ -6,7 +6,7 @@ function Main() {
   return (
     <div className="counter">
       <h1>Counter is: {count}</h1>
-      <button
+      <button 
         onClick={() => setCount(count + 1)}
         style={{
           background: "blue",
@@ -14,7 +14,7 @@ function Main() {
           border: "none",
           padding: "10px 20px",
           borderRadius: "8px",
-          cursor: "pointer",
+          cursor: "pointer", 
         }}
       >
         Increase

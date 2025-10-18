@@ -9,6 +9,7 @@ function Card(props){
         <div style={{textAlign:"center"}}>
              <h1>{props.cloth}</h1>
              <h1>{props.offer}</h1>
+             <h1>Price :{props.price}</h1>
              <h2>Shop Now</h2>
         </div>
         </div>

@@ -1,0 +1,17 @@
+body{
+  padding:0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+#heading{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(80, 80, 224);
+}
+h1{
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}

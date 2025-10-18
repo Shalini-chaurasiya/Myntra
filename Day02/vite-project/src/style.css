@@ -54,10 +54,13 @@ body{
 .card{
     background-color: rgb(3, 10, 148);
     color: white;
-  
-    justify-content: center;
 }
 
 .foot{
     margin-top:35px;
+}
+.sort{
+    height:50px;
+    background-color: orange;
+    
 }
